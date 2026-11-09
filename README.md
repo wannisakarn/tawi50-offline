@@ -4,7 +4,7 @@
 
 ## ⬇ ดาวน์โหลด
 
-**[ดาวน์โหลด tawi50-offline.html](https://github.com/wannisakarn/tawi50-offline/releases/latest/download/tawi50-offline.html)**
+**[ดาวน์โหลด tawi50-offline.html](https://github.com/wannisakarn/tawi50-offline/blob/main/tawi50-offline.html)**
 
 แม่แบบ Excel สำหรับออกทีละหลายใบ: [tawi50-import-template.xlsx](https://github.com/wannisakarn/tawi50-offline/blob/main/tawi50-import-template.xlsx) (หรือกดปุ่ม “ดาวน์โหลดแม่แบบ Excel” ในโปรแกรมก็ได้)
 
