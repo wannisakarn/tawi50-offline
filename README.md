@@ -6,7 +6,7 @@
 
 **[ดาวน์โหลด tawi50-offline.html](https://github.com/wannisakarn/tawi50-offline/releases/latest/download/tawi50-offline.html)**
 
-แม่แบบ Excel สำหรับออกทีละหลายใบ: [tawi50-import-template.xlsx](https://github.com/wannisakarn/tawi50-offline/releases/latest/download/tawi50-import-template.xlsx) (หรือกดปุ่ม “ดาวน์โหลดแม่แบบ Excel” ในโปรแกรมก็ได้)
+แม่แบบ Excel สำหรับออกทีละหลายใบ: [tawi50-import-template.xlsx](https://github.com/wannisakarn/tawi50-offline/blob/main/tawi50-import-template.xlsx) (หรือกดปุ่ม “ดาวน์โหลดแม่แบบ Excel” ในโปรแกรมก็ได้)
 
 อยากลองใช้แบบออนไลน์ก่อน: https://tawi50.vercel.app
 
